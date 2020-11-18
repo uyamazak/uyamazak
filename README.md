@@ -1,4 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api?username=uyamazak&show_icons=true&count_private=true" alt="uyamazak github stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uyamazak&layout=compact" alt="uyamazak top languages">
+<img src="https://github-readme-stats.vercel.app/api?username=uyamazak&show_icons=true&count_private=true&hide_title=true" alt="uyamazak github stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uyamazak&layout=compact" alt="uyamazak top languages">
 
 ### Hi there 👋
 I'm a web developer based in Japan.
@@ -6,7 +7,6 @@ I'm a web developer based in Japan.
 - [Blog](https://blog.hatena.ne.jp/)
 - [Twitter](https://twitter.com/uyamazak)
 
-🔭 I’m currently working on [senior-job](https://corp.senior-job.co.jp/)
 
 <!--
 **uyamazak/uyamazak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
