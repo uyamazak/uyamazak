@@ -1,5 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=uyamazak&show_icons=true&count_private=true&hide_title=true" alt="uyamazak github stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uyamazak&layout=compact" alt="uyamazak top languages">
+<img src="https://github-readme-stats.vercel.app/api?username=uyamazak&show_icons=true&count_private=true&hide_title=true" alt="uyamazak github stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uyamazak&layout=compact" alt="uyamazak top languages">
 
 ### Hi there 👋
 I'm a web developer based in Japan.
