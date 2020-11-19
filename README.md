@@ -3,7 +3,7 @@
 ### Hi there 👋
 I'm a web developer based in Japan.
 
-- [Blog](https://blog.hatena.ne.jp/)
+- [Blog](https://uyamazak.hatenablog.com/)
 - [Twitter](https://twitter.com/uyamazak)
 
 
